@@ -11,7 +11,7 @@ Here is the dataset used: https://www.kaggle.com/c/house-prices-advanced-regress
 4) Add a Code cell above the given code in the ipynb file to mount your Google drive.
 
 # Code Execution:
-The code is inside the House_Price_Prediction.ipynb file. Do the above steps and execute the code. The train data is used here.
+The code is inside the House_Price_Prediction.ipynb file. Do the above steps and execute the code. The train data csv file is used here.
 
 # Knowledge Gained
 **1. Efficient Data Loading and Usage:**
