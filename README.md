@@ -30,7 +30,7 @@ Performance Metrics: Evaluated the model’s performance using Mean Squared Erro
 Scatter Plot Visualization: Developed skills in creating scatter plots to visualize the relationship between actual and predicted house prices.
 Perfect Prediction Line: Learned to include a reference line in the plot to indicate the ideal prediction scenario, enhancing the interpretation of model performance.
 
-5. Model Evaluation and Improvement:
+**5. Model Evaluation and Improvement:**
 Error Analysis: Gained experience in analyzing model performance and understanding the implications of evaluation metrics on model quality.
 Visualization Insights: Used visualizations to gain insights into how well the model is predicting and identify potential areas for improvement.
 This task provided hands-on experience with key machine learning concepts, including data handling, feature selection, model training, evaluation, and visualization, crucial for developing and assessing predictive models.
